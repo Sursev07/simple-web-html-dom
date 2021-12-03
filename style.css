@@ -1,0 +1,32 @@
+.header-img {
+    margin-top:50px;
+    width: 100%;
+    height: 500px;
+    background: url('https://images.unsplash.com/photo-1573167130797-8453176c73d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80');
+    background-size: cover;
+}
+
+.btn-hacktiv8{
+    background-color: #f16634;
+    color:white
+}
+
+.footer {
+    margin-top: 50px;
+    width: 100%;
+    height: 300px;
+    background: #132849;
+    background-size: cover;
+    color:white;
+}
+
+.title-footer {
+    color: #f16734;
+}
+a{
+ cursor:pointer;
+ 
+}
+.menu-text{
+    color:#132849;
+}
